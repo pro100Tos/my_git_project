@@ -1,2 +1,6 @@
 print("My first Git program!!!")
-print('Yandexlyceum')
+
+
+
+for i in range(10):
+    print("Yandexlyceum!!!")
